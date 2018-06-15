@@ -1,0 +1,10 @@
+#Ignore Folders
+Intermediate/
+DerivedDataCache/
+Binaries/
+Saved/
+
+#File Endings VS
+*.sln
+*.sdf
+*.suo

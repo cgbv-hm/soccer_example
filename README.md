@@ -3,6 +3,8 @@ To clone this repository install git-lfs (see https://git-lfs.github.com/) then 
 
 git clone https://github.com/cgbv-hm/soccer_example.git
 
+cd soccer_example
+
 git lfs install
 
 git lfs pull
